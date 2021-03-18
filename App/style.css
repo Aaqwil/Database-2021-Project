@@ -1,0 +1,123 @@
+*
+{
+	margin: 5px;
+	padding: 5px;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(36, 37, 37);
+	color: black;
+}
+
+a:link
+{
+	color: white;
+}
+
+a:visited
+{
+	color: rgb(83, 83, 83);
+}
+
+header
+{
+	border-style: outset;
+	border-color: #8ee4a467;
+	border-width: 5px;
+	margin: auto;
+	width: 450px;
+	text-align: center;
+	background-color: #e4f1ee;
+}
+
+button
+{
+	background-color: #e4f1ee;
+}
+
+fieldset
+{
+	text-align: center;
+}
+
+input
+{
+	border-style: groove;
+	border-width: 3px;
+	border-color: lightgray;
+	margin: auto;
+	text-align: center;
+	background-color: #d8e7e9;
+}
+
+#menu
+{
+	padding: auto;
+	display: block;
+	text-align: center;
+	background-color: #e4f1ee;
+}
+
+label
+{
+	background-color: #e4f1ee;
+}
+
+.left_side_of_screen
+{
+	float: left;
+	width: 425px;
+	background-color: red;
+}
+
+.right_side_of_screen
+{
+	float: right;
+}
+
+#login_form
+{
+	display: none;
+	text-align: center;
+}
+
+#register_form
+{
+	display: none;
+	text-align: center;
+}
+
+table
+{
+	width: 926px;
+	border-style: outset;
+	border-width: 10px;
+	text-align: center;
+	float: left;
+}
+
+select
+{
+	background-color: #D2CCDA;
+}
+
+option
+{
+	background-color: #D2CCDA;
+}
+
+th
+{
+	background-color: #D2CCDA;
+}
+
+td
+{
+	background-color: #CCCFE6;
+	width: auto;
+}
+
+tr
+{
+	background-color: #CCCFE6;
+	width: auto;
+}
